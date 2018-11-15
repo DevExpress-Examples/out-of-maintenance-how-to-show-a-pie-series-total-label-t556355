@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/PieTotalLabelSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/PieTotalLabelSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to: show a Pie series' total label
 
 
